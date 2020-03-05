@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="345f52dc-0f75-43de-a6e0-8af31de480d7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R0p3lFhgAYVg4vQZBjwvzclkLW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Pratice.js">
+    <configuration name="Pratice.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Pratice.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Tutorial2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Tutorial3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Tutorial8.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Tutorial9.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Pratice.js" />
+        <item itemvalue="Node.js.Tutorial3.js" />
+        <item itemvalue="Node.js.Tutorial2.js" />
+        <item itemvalue="Node.js.Tutorial9.js" />
+        <item itemvalue="Node.js.Tutorial8.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="345f52dc-0f75-43de-a6e0-8af31de480d7" name="Default Changelist" comment="" />
+      <created>1568813670348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568813670348</updated>
+      <workItem from="1568813673148" duration="93000" />
+      <workItem from="1568834481713" duration="967000" />
+      <workItem from="1568835577730" duration="1010000" />
+      <workItem from="1568836594180" duration="2984000" />
+      <workItem from="1569418316223" duration="5570000" />
+      <workItem from="1569424483693" duration="1000" />
+      <workItem from="1569436554151" duration="341000" />
+      <workItem from="1569439304551" duration="796000" />
+      <workItem from="1569440301654" duration="3104000" />
+      <workItem from="1569594930219" duration="13000" />
+      <workItem from="1569599446140" duration="109000" />
+      <workItem from="1570022895354" duration="1026000" />
+      <workItem from="1570038071880" duration="12056000" />
+      <workItem from="1570469213461" duration="2767000" />
+      <workItem from="1570472018373" duration="43000" />
+      <workItem from="1570634337778" duration="8000000" />
+      <workItem from="1570644312735" duration="814000" />
+      <workItem from="1570648977401" duration="6141000" />
+      <workItem from="1570710090050" duration="53000" />
+      <workItem from="1571245572736" duration="79000" />
+      <workItem from="1571245903745" duration="720000" />
+      <workItem from="1571249300513" duration="1855000" />
+      <workItem from="1571407182633" duration="2785000" />
+      <workItem from="1571776537808" duration="212000" />
+      <workItem from="1571788890352" duration="232000" />
+      <workItem from="1571789164632" duration="1000" />
+      <workItem from="1571789211935" duration="247000" />
+      <workItem from="1571858617440" duration="2228000" />
+      <workItem from="1572270854070" duration="727000" />
+      <workItem from="1572293487760" duration="2029000" />
+      <workItem from="1572382573212" duration="7523000" />
+      <workItem from="1572400721115" duration="5000" />
+      <workItem from="1573075476388" duration="675000" />
+      <workItem from="1573076185050" duration="3000" />
+      <workItem from="1573077486934" duration="126000" />
+      <workItem from="1573157534541" duration="2559000" />
+      <workItem from="1573237272692" duration="1748000" />
+      <workItem from="1573569028779" duration="2633000" />
+      <workItem from="1573586741852" duration="627000" />
+      <workItem from="1574174855581" duration="2063000" />
+      <workItem from="1574204200320" duration="770000" />
+      <workItem from="1574705970459" duration="67000" />
+      <workItem from="1575321921401" duration="2554000" />
+      <workItem from="1575594406653" duration="2000" />
+      <workItem from="1575660770717" duration="326000" />
+      <workItem from="1575748887486" duration="4508000" />
+      <workItem from="1575766717065" duration="1976000" />
+      <workItem from="1576346763354" duration="1414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Tutorial7.js</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Tutorial8.js</url>
+          <line>167</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
